@@ -1,0 +1,10 @@
+C:\Users\SAMSUNG\Desktop\CCC\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\CCC\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+C:\Users\SAMSUNG\Desktop\CCC\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\CCC\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\CCC\MyContacts\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+C:\Users\SAMSUNG\Desktop\CCC\MyContacts\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+C:\Users\SAMSUNG\Desktop\CCC\MyContacts\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\Users\SAMSUNG\Desktop\CCC\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+C:\Users\SAMSUNG\Desktop\CCC\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\Users\SAMSUNG\Desktop\CCC\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.Form2.resources
